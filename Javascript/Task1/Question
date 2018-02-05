@@ -1,0 +1,3 @@
+This html file will have a button when i click that button the style of the paragraph should change.
+
+--> I changed the name of the function to 'mystyle' instead of 'style' since it wasn't working. It threw an error of 'style' is not a function.
